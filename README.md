@@ -46,7 +46,7 @@ Algorithmic accuracy is quantified using the official Aramis asymmetric timeline
 | Static $3\text{-}\Sigma$ Threshold | 0.5842 | $0.12~\mu\text{s}$ |
 | Standard Hawkes Process | 0.3120 | $0.95~\mu\text{s}$ |
 | Deep LSTM Network | 0.4210 | $18.42~\mu\text{s}$ |
-| **Alfa-Pulse v10 Kernel (Ours)** |  0.1554  | 1.50~$\mu\text{s}$ |
+| **Alfa-Pulse v10 Kernel (Ours)** |  **0.1554**  | **$1.50~\mu\text{s}$** |
 
 ---
 

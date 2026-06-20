@@ -53,9 +53,6 @@ Algorithmic accuracy is quantified using the official Aramis asymmetric timeline
 ## 🛠️ Repository Structure
 
 ```bash
-├── main.tex                         # IEEE Transactions on Reliability manuscript source
-├── references.bib                   # Comprehensive PHM & Stochastic Calculus bibliography
-├── pipeline.py                      # Production Python module for streaming .mat telemetry ingestion
-├── monte_carlo_sim.py               # 10,000-run Monte Carlo stochastic simulation engine
+├── pipeline.py                      # Production Python module for streaming .mat telemetry ingestion # 10,000-run Monte Carlo stochastic simulation engine    
 ├── Alfa_Pulse_Monte_Carlo_Dashboard.png # Generated high-resolution diagnostic verification dashboard
 └── README.md                        # This documentation file
